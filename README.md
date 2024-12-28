@@ -1,6 +1,6 @@
-This repository contains examples demonstrating different tasks & theories in Java.
+This repository contains examples demonstrating different tasks & theories in Java. These have been written by myself and are primarily intended for educational purposes.
 
-Developed by Ricky Hewitt <ricky@rickyhewitt.dev>. 
+_Author:_ Ricky Hewitt <ricky@rickyhewitt.dev>. 
 
 _License:_ MIT License by default, unless otherwise specified within the source file.
 
